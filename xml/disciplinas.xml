@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE disciplinas SYSTEM "../dtd/disciplinas.dtd">
+<disciplinas>
+  <disciplina codigo="STB0302">
+    <nome>Inglês Instrumental</nome>
+    <carga>60</carga>
+    <ementa>Conscientização do processo de leitura. Estratégias de leitura. Gramática aplicada da língua inglesa. Reconhecimento de gêneros textuais e aquisição de vocabulário. Análise textual de um gênero. Leitura intensiva de diversos gêneros textuais da área de Informática. Redação acadêmica.</ementa>
+    <semestre>1</semestre>
+    <nomeCurso>Tecnologia em Sistemas para Internet - TSI</nomeCurso>
+  </disciplina>
+  <disciplina codigo="STB0303">
+    <nome>Introdução à Computação</nome>
+    <carga>30</carga>
+    <ementa>Evolução da computação (tecnologias e usos). Modelos funcionais dos computadores. Sistemas de códigos e codecs. Sistemas operacionais. Linguagens de programação. Sistemas de rede e Internet. Open Source/Free Software. O estado da arte. TI x Sustentabilidade.</ementa>
+    <semestre>1</semestre>
+    <nomeCurso>Tecnologia em Sistemas para Internet - TSI</nomeCurso>
+  </disciplina>
+  <disciplina codigo="STB0304">
+    <nome>Introdução à Programação Web</nome>
+    <carga>60</carga>
+    <ementa>Infraestrutura do Ambiente Web; Páginas Estáticas e Páginas Dinâmicas; Introdução a Linguagem de Marcação HTML e suas evoluções; Folhas de Estilos (CSS); Introdução a Programação Client-Side (JavaScript); Princípios para Web Design Responsivo.</ementa>
+    <semestre>1</semestre>
+    <nomeCurso>Tecnologia em Sistemas para Internet - TSI</nomeCurso>
+  </disciplina>
+  <disciplina codigo="STB0305">
+    <nome>Algoritmos e Técnicas de Programação</nome>
+    <carga>90</carga>
+    <ementa>Introdução à lógica de programação. Conceitos básicos sobre algoritmos. Algoritmos Estruturados: conceitos, estruturas de controle (seqüência, seleção e repetição)entrada e saída, atribuição; Operadores Básicos (Aritméticos, Relacionais e Lógicos); Resolução de problemas usando algoritmos; Verificação e correção de algoritmos através de testes de mesa; Implementações de algoritmos em uma linguagem de programação.Procedimentos e Funções.</ementa>
+    <semestre>1</semestre>
+    <nomeCurso>Tecnologia em Sistemas para Internet - TSI</nomeCurso>
+  </disciplina>
+  <disciplina codigo="STB0306">
+    <nome>Estrutura de Dados</nome>
+    <carga>60</carga>
+    <ementa>Conjuntos Numéricos: Conjunto dos números Naturais; Conjunto dos números Inteiros; Conjunto dos números Racionais: Frações e operações com frações.</ementa>
+    <semestre>2</semestre>
+    <nomeCurso>Tecnologia em Sistemas para Internet - TSI</nomeCurso>
+  </disciplina>
+  <disciplina codigo="STB0307">
+    <nome>Banco de Dados I</nome>
+    <carga>60</carga>
+    <ementa>Conscientização do processo de leitura. Estratégias de leitura. Gramática aplicada da língua inglesa. Reconhecimento de gêneros textuais e aquisição de vocabulário. Análise textual de um gênero. Leitura intensiva de diversos gêneros textuais da área de Informática. Redação acadêmica.</ementa>
+    <semestre>2</semestre>
+    <nomeCurso>Tecnologia em Sistemas para Internet - TSI</nomeCurso>
+  </disciplina>
+  <disciplina codigo="STB0308">
+    <nome>Sistemas Operacionais</nome>
+    <carga>60</carga>
+    <ementa>Evolução da computação (tecnologias e usos). Modelos funcionais dos computadores. Sistemas de códigos e codecs. Sistemas operacionais. Linguagens de programação. Sistemas de rede e Internet. Open Source/Free Software. O estado da arte. TI x Sustentabilidade.</ementa>
+    <semestre>2</semestre>
+    <nomeCurso>Tecnologia em Sistemas para Internet - TSI</nomeCurso>
+  </disciplina>
+  <disciplina codigo="STB0309">
+    <nome>Engenharia de Software I</nome>
+    <carga>60</carga>
+    <ementa>Infraestrutura do Ambiente Web; Páginas Estáticas e Páginas Dinâmicas; Introdução a Linguagem de Marcação HTML e suas evoluções; Folhas de Estilos (CSS); Introdução a Programação Client-Side (JavaScript); Princípios para Web Design Responsivo.</ementa>
+    <semestre>2</semestre>
+    <nomeCurso>Tecnologia em Sistemas para Internet - TSI</nomeCurso>
+  </disciplina>
+  <disciplina codigo="STB0305">
+    <nome>Programação Web</nome>
+    <carga>60</carga>
+    <ementa>Introdução à lógica de programação. Conceitos básicos sobre algoritmos. Algoritmos Estruturados: conceitos, estruturas de controle (seqüência, seleção e repetição)entrada e saída, atribuição; Operadores Básicos (Aritméticos, Relacionais e Lógicos); Resolução de problemas usando algoritmos; Verificação e correção de algoritmos através de testes de mesa; Implementações de algoritmos em uma linguagem de programação.Procedimentos e Funções.</ementa>
+    <semestre>2</semestre>
+    <nomeCurso>Tecnologia em Sistemas para Internet - TSI</nomeCurso>
+  </disciplina>
+  <disciplina codigo="SIB0312">
+    <nome>Desenvolvimento Web I</nome>
+    <carga>60</carga>
+    <ementa>Introdução à lógica de programação. Conceitos básicos sobre algoritmos. Algoritmos Estruturados: conceitos, estruturas de controle (seqüência, seleção e repetição)entrada e saída, atribuição; Operadores Básicos (Aritméticos, Relacionais e Lógicos); Resolução de problemas usando algoritmos; Verificação e correção de algoritmos através de testes de mesa; Implementações de algoritmos em uma linguagem de programação.Procedimentos e Funções.</ementa>
+    <semestre>5</semestre>
+    <nomeCurso>Bacharelado em Sistemas de Informação</nomeCurso>
+  </disciplina>
+  <disciplina codigo="SIB0313">
+    <nome>Desenvolvimento Web II</nome>
+    <carga>60</carga>
+    <ementa>Introdução à lógica de programação. Conceitos básicos sobre algoritmos. Algoritmos Estruturados: conceitos, estruturas de controle (seqüência, seleção e repetição)entrada e saída, atribuição; Operadores Básicos (Aritméticos, Relacionais e Lógicos); Resolução de problemas usando algoritmos; Verificação e correção de algoritmos através de testes de mesa; Implementações de algoritmos em uma linguagem de programação.Procedimentos e Funções.</ementa>
+    <semestre>6</semestre>
+    <nomeCurso>Bacharelado em Sistemas de Informação</nomeCurso>
+  </disciplina>
+</disciplinas>

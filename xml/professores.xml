@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE professores SYSTEM "../dtd/professores.dtd">
+<professores>
+  <professor id="1">
+    <nome>André Moraes</nome>
+    <email>a****s@ifc.edu.br</email>
+  </professor>
+  <professor id="2">
+    <nome>Ângelo Frozza</nome>
+    <email>a****a@ifc.edu.br</email>
+  </professor>
+  <professor id="3">
+    <nome>Daniel Anderle</nome>
+    <email>d****e@ifc.edu.br</email>
+  </professor>
+  <professor id="4">
+    <nome>Daniel Varela</nome>
+    <email>d****a@ifc.edu.br</email>
+  </professor>
+  <professor id="5">
+    <nome>Rafael Speroni</nome>
+    <email>r****i@ifc.edu.br</email>
+  </professor>
+  <professor id="6">
+    <nome>Lidiane Visintin</nome>
+    <email>l****n@ifc.edu.br</email>
+  </professor>
+  <professor id="7">
+    <nome>Joao</nome>
+    <email>joao@gmail.com</email>
+  </professor>
+</professores>

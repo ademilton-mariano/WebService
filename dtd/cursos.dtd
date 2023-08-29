@@ -1,0 +1,5 @@
+<!ELEMENT cursos (curso+)>
+<!ELEMENT curso (nome, coordenador, semestre)>
+<!ELEMENT nome (#PCDATA)>
+<!ELEMENT coordenador (#PCDATA)>
+<!ELEMENT semestre (#PCDATA)>

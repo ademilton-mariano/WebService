@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE cursos SYSTEM "../dtd/cursos.dtd">
+<cursos>
+  <curso>
+    <nome>Tecnologia em Sistemas para Internet - TSI</nome>
+    <coordenador>Rafael Speroni</coordenador>
+    <semestre>6</semestre>
+  </curso>
+  <curso>
+    <nome>Bacharelado em Sistemas de Informação</nome>
+    <coordenador>Daniel Anderle</coordenador>
+    <semestre>8</semestre>
+  </curso>
+  <curso>
+    <nome>Técnico em Informática Integrado</nome>
+    <coordenador>Ângelo Frozza</coordenador>
+    <semestre>6</semestre>
+  </curso>
+  <curso>
+    <nome>Bacharelado em Agronomia</nome>
+    <coordenador>Lidiane Visintin</coordenador>
+    <semestre>8</semestre>
+  </curso>
+  <curso>
+    <nome>PROEJA</nome>
+    <coordenador>Rafael Speroni</coordenador>
+    <semestre>6</semestre>
+  </curso>
+  <curso>
+    <nome>teste2</nome>
+    <coordenador>Lidiane Visintin</coordenador>
+    <semestre>4</semestre>
+  </curso>
+  <curso>
+    <nome>inserido</nome>
+    <coordenador>Rafael Speroni</coordenador>
+    <semestre>6</semestre>
+  </curso>
+  <curso>
+    <nome>inserido</nome>
+    <coordenador>Rafael Speroni</coordenador>
+    <semestre>6</semestre>
+  </curso>
+  <curso>
+    <nome>teste</nome>
+    <coordenador>Rafael Speroni</coordenador>
+    <semestre>2</semestre>
+  </curso>
+  <curso>
+    <nome>12</nome>
+    <coordenador>Daniel Anderle</coordenador>
+    <semestre>2</semestre>
+  </curso>
+  <curso>
+    <nome>45</nome>
+    <coordenador>Daniel Anderle</coordenador>
+    <semestre>2</semestre>
+  </curso>
+  <curso>
+    <nome>asda</nome>
+    <coordenador>Daniel Varela</coordenador>
+    <semestre>3</semestre>
+  </curso>
+  <curso>
+    <nome>Curso do Rafael</nome>
+    <coordenador>Daniel Anderle</coordenador>
+    <semestre>5</semestre>
+  </curso>
+  <curso>
+    <nome>sdfsdfdsfdsf</nome>
+    <coordenador>Ângelo Frozza</coordenador>
+    <semestre>6</semestre>
+  </curso>
+</cursos>

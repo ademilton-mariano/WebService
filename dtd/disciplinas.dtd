@@ -1,0 +1,8 @@
+<!ELEMENT disciplinas (disciplina+)>
+<!ELEMENT disciplina (nome, carga?, ementa?, semestre?, nomeCurso+)>
+<!ATTLIST disciplina codigo CDATA #REQUIRED>
+<!ELEMENT nome (#PCDATA)>
+<!ELEMENT carga (#PCDATA)>
+<!ELEMENT ementa (#PCDATA)>
+<!ELEMENT semestre (#PCDATA)>
+<!ELEMENT nomeCurso (#PCDATA)>
